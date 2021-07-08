@@ -13,3 +13,5 @@ Featured in this video: https://www.youtube.com/watch?v=CN7gYnntwHk (Types of Mi
 6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named "unlucky"). Then, select this new intallation in the launcher home screen and click Play.
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
+
+Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
