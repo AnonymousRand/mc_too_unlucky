@@ -1,5 +1,5 @@
 {
-  "id": "unlucky",
+  "id": "too_unlucky",
   "time": "2021-01-13T06:09:04-08:00",
   "releaseTime": "2020-06-24T03:31:40-07:00",
   "type": "release",
@@ -1513,7 +1513,7 @@
   ],
   "downloads": {},
   "assetIndex": {
-    "id": "unlucky",
+    "id": "too_unlucky",
     "totalSize": 330604420,
     "size": 295421,
     "url": "https://launchermeta.mojang.com/v1/packages/3a5d110a6ab102c7083bae4296d2de4b8fcf92eb/1.16.json"
